@@ -4,8 +4,14 @@ cardnum = ["1","2","3","4","5","6","7","8","9","T","J","Q","K"]
 suit = ["H","S","D","C"]
 decknum = ["a", "b", "c", "d", "e", "f"]
 
-wallet=0
-bet_money=1
+
+#EDIT
+wallet=100000
+bet_money=500
+game_cnt_total=100
+####
+
+
 win=0
 lose=0
 draw=0
@@ -16,7 +22,7 @@ split_cnt=0
 
 deck=[]
 
-game_cnt_total=100
+
 
 def rest():
     print "rest of card:",len(deck)
