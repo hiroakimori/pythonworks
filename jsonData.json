@@ -1,0 +1,14 @@
+{
+    "group1": {
+        "Adam": 40,
+        "Bob": 74,
+        "Chris": 60,
+        "David": 71
+    },
+    "group2": {
+        "Eric": 44,
+        "John": 44,
+        "Mike": 99,
+        "ken": 33
+    }
+}
