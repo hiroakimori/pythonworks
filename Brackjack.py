@@ -6,9 +6,9 @@ decknum = ["a", "b", "c", "d", "e", "f"]
 
 
 #EDIT
-wallet=10000
-bet_money=1000
-game_cnt_total=30
+wallet=100000
+bet_money=500
+game_cnt_total=100
 ####
 
 
