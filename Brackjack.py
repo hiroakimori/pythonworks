@@ -216,8 +216,8 @@ while game_cnt<game_cnt_total:
     d_hand_cal = card_num_change(card_distribute(2))
     p_hand_cal = card_num_change(card_distribute(2))
 
-    print p_hand_cal,hand_sum(p_hand_cal),"Acnt:",A_count(p_hand_cal)
-    print d_hand_cal,hand_sum(d_hand_cal),"Acnt:",A_count(d_hand_cal)
+    print "P:",p_hand_cal,hand_sum(p_hand_cal),"Acnt:",A_count(p_hand_cal)
+    print "D:",d_hand_cal,hand_sum(d_hand_cal),"Acnt:",A_count(d_hand_cal)
 
 
     #split check
